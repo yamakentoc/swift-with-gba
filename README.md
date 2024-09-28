@@ -1,5 +1,7 @@
 # swift-with-gba  
-
+I tried developing for the GAME BOY ADVANCE (GBA) using Swift.  
+You can find the method on the following website:  
+https://qiita.com/yamakentoc/items/602ab2b88619d0e42bab
 
 |gbaSample|colorfulDot|animation|
 |--|--|--|
