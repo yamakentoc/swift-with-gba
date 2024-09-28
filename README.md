@@ -10,3 +10,9 @@ https://qiita.com/yamakentoc/items/602ab2b88619d0e42bab
 |sprite|scrollBG|
 |--|--|
 |<img width="503" alt="スクリーンショット 2024-09-28 23 04 14" src="https://github.com/user-attachments/assets/e1535845-50f1-429f-b8f9-df6897bb4494">|<img width="503" alt="スクリーンショット 2024-09-28 23 03 53" src="https://github.com/user-attachments/assets/2d2bafd9-e506-4af0-ac84-9e84fea179f1">|
+
+# References
+- https://github.com/k-kohey/swift-gba-samples
+- https://github.com/bricklife/swift-gba-sandbox?tab=readme-ov-file
+- https://akkera102.sakura.ne.jp/gbadev/index.php?tutorial.2
+- https://ianfinlayson.net/class/cpsc305/notes/14-tiles
